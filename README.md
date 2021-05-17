@@ -1,8 +1,10 @@
 ## Sobre e Autor
-//
+Aluno de Ciência da Computação - Matéria: Java para Web
 
 ## INSTALAÇÃO
-//
+    ### -> Realizar o clone do repoditório;
+    ### -> Na pasta do repositório executar o comando npm install;
+    ### -> Na mesma pasta executar o comando npm start.
 
 ## ENDPOINTS
     ### Vendedores
